@@ -4,12 +4,16 @@ A web-based scientific calculator built with HTML, CSS, and JavaScript.
 
 ## 📱 App Preview
 
-| Desktop View | Mobile View |
-| :---: | :---: |
+| Desktop View | 
+| :---: |
 | ![Desktop](./screenshots/desktop-main.png) | 
-| ![Mobile](./screenshots/mobile-main.png) | 
-| ![Mobile](./screenshots/mobile-theme-editor.png) | 
 | ![Desktop](./screenshots/privacy-policy.png) |
+
+| Mobile View |
+| :---: |
+| ![Mobile](./screenshots/mobile-main.png) | 
+| ![Mobile](./screenshots/mobile-theme-editor.png) |
+
 
 ## 🚀 Features
 * **Basic Math:** Addition, Subtraction, Multiplication, Division.
