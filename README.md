@@ -14,4 +14,4 @@ You can use the app directly in your browser!
 3. You can also use your physical keyboard numbers and operators (+, -, *, /) to type quickly
 
 ## 📝 Privacy
-This app does not collect any user data. See [privacy.html](privacy.html) for details.
+This app does not collect any user data. See [privacy.html](public/privacy.html) for details.
