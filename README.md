@@ -7,11 +7,17 @@ A web-based scientific calculator built with HTML, CSS, and JavaScript.
 | Desktop View | 
 | :---: |
 | ![Desktop](./screenshots/desktop-main.png) | 
+
+| Privacy Policy | 
+| :---: |
 | ![Desktop](./screenshots/privacy-policy.png) |
 
 | Mobile View |
 | :---: |
 | ![Mobile](./screenshots/mobile-main.png) | 
+
+| Mobile Theme Editor View |
+| :---: |
 | ![Mobile](./screenshots/mobile-theme-editor.png) |
 
 
