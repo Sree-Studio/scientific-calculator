@@ -2,6 +2,15 @@
 
 A web-based scientific calculator built with HTML, CSS, and JavaScript.
 
+## 📱 App Preview
+
+| Desktop View | Mobile View |
+| :---: | :---: |
+| ![Desktop](./screenshots/desktop-main.png) | 
+| ![Mobile](./screenshots/mobile-main.png) | 
+| ![Mobile](./screenshots/mobile-theme-editor.png) | 
+| ![Desktop](./screenshots/privacy-policy.png) |
+
 ## 🚀 Features
 * **Basic Math:** Addition, Subtraction, Multiplication, Division.
 * **Advanced Functions:** Sin, Cos, Tan, Log, and Exponents.
