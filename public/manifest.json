@@ -1,7 +1,7 @@
 {
   "lang": "en-US",
-  "name": "Scientific Pro Calculator",
-  "short_name": "SreeCalc",
+  "name": "Scientific-Calculator",
+  "short_name": "Scientific-Calculator",
   "description": "A high-performance scientific calculator with customizable themes.",
   "start_url": "/",
   "display": "standalone",
